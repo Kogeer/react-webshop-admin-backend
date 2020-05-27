@@ -1,0 +1,34 @@
+#images-thead {
+    text-align: center;
+    background-color: #3498db;
+  }
+  
+  #images-table {
+    justify-content: center;
+    width: 762px;
+    margin: auto;
+    table-layout: fixed;
+    margin-top: 20px;
+  }
+
+  #images-row td{
+      vertical-align: middle;
+      text-align: center;
+      overflow-wrap: break-word;
+      word-wrap: break-word;
+  }
+
+#update-images-form{
+  justify-content: center;
+    width: 762px;
+    margin: auto;
+    table-layout: fixed;
+}
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50px;
+    width: 80px;
+  }

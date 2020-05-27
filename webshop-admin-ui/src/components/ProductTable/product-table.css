@@ -1,0 +1,23 @@
+#products-thead {
+    text-align: center;
+    background-color: #3498db;
+  }
+  
+  #products-table {
+    justify-content: center;
+    width: 900px;
+    margin: auto;
+  }
+
+  #products-row td{
+      vertical-align: middle;
+      text-align: center;
+  }
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50px;
+    width: 80px;
+  }
